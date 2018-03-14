@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                Log.d("8Ball", "Zeee Button has been pressed!");
+                Log.d("8Ball", "Button has been pressed!");
 
                 Random randomNumberGenerator = new Random();
 
